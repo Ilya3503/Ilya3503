@@ -1,16 +1,23 @@
-## Hi there 👋
+## DevOps / SRE Engineer
 
-<!--
-**Ilya3503/Ilya3503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stack
 
-Here are some ideas to get you started:
+**Core:**
+Linux, Docker, Docker Compose, Python (FastAPI), Nginx, Git, PostgreSQL, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Monitoring:**
+Prometheus, Grafana, Zabbix, Exporters
+
+**CI/CD:**
+GitHub Actions, Gitlab CI
+
+**Other:**
+Kubernetes, Ansible
+
+---
+
+### Projects
+
+Работал над инфраструктурными проектами: Nginx как Reverse proxy/Load balancer, CI/CD на self-hosted-раннере, мониторинг сервисов и баз данных через Prometheus и Grafana,  и т.д.
+
+Основные проекты можно посмотреть в закрепленных репо!
