@@ -1,23 +1,15 @@
 ## DevOps / SRE Engineer
 
-### Stack
-
-**Core:**
-Linux, Docker, Docker Compose, Python (FastAPI), Nginx, Git, PostgreSQL, Bash
-
-**Monitoring:**
-Prometheus, Grafana, Zabbix, Exporters
-
-**CI/CD:**
-GitHub Actions, Gitlab CI
-
-**Other:**
-Kubernetes, Ansible
+Надёжность, наблюдаемость, автоматизация.
 
 ---
 
-### Projects
+**Избранные проекты**
 
-Работал над инфраструктурными проектами: Nginx как Reverse proxy/Load balancer, CI/CD на self-hosted-раннере, мониторинг сервисов и баз данных через Prometheus и Grafana,  и т.д.
+**[Nginx Reverse Proxy + Monitoring](https://github.com/Ilya3503/NginxReverse_withMonitoring)** — Nginx load balancer, 2 FastAPI бэкенда, Prometheus + Grafana, кастомный дашборд (RPS, connections, status codes). Docker Compose.
 
-Основные проекты можно посмотреть в закрепленных репо!
+**[CI/CD Pipeline](https://github.com/Ilya3503/CICD-Actions)** — GitHub Actions + self-hosted runner, локальный Docker Registry, версионирование через commit SHA, деплой на сервер по SSH.
+
+---
+
+**Стек технологий:** Linux · Docker · Nginx · Prometheus · Grafana · GitHub Actions · Kubernetes · PostgreSQL · Ansible
